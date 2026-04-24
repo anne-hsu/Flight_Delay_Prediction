@@ -4,4 +4,7 @@ Predicting flight departure delays (**May D(el)ay**).
 
 ## Phase 3 deliverables
 
-See **`Phase 3 report/`** for the final write-up notebook, modeling notebooks, pipeline/feature-engineering notebooks, and the LinkedIn poster PDF export.
+- **`Data Pipeline and Feature Engineering/`** — EDA, joins, feature engineering, ML pipeline notebooks  
+- **`Models/`** — LR/RF, GBT, MLP, transformer modeling notebooks  
+- **`Phase 3 Report.ipynb`** — final write-up  
+- **`May_Delay_LinkedIn_Poster_3pages.pdf`** — poster export
